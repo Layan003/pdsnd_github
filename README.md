@@ -7,7 +7,7 @@ Include the date you created this project and README file.
 Explore US Bikeshare Date
 
 ### Description
-Describe what your project is about and what it does
+This project makes you explore the US Bikeshare data and get the statistics of each State bikeshare
 
 ### Files used
 Include the files used
