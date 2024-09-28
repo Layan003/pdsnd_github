@@ -10,7 +10,9 @@ Explore US Bikeshare Date
 This project makes you explore the US Bikeshare data and get the statistics of each State bikeshare
 
 ### Files used
-Include the files used
+chicago.csv 
+new_york_city.csv
+washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
